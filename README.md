@@ -5,11 +5,6 @@ Read before
 * [state-management-with-react-hooks](https://ricostacruz.com/til/state-management-with-react-hooks)
 
 List
-* [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-* [purestate](https://github.com/MaiaVictor/PureState) - The stupidest state management library that works.
-* [statorgfc](https://github.com/cs01/statorgfc) - The simplest possible global state library for React
-* [stator](https://github.com/cs01/stator) - Simple, plain JavaScript state management with built-in support for React
-* [sunfish](https://github.com/tzilist/Sunfish) - Functional transaction based state management library
 * [akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications
 * [alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation
 * [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
@@ -30,10 +25,12 @@ List
 * [laco](https://github.com/deamme/laco) - Ultra lightweight state management for React and Inferno
 * [loona](https://github.com/kamilkisiela/loona) - Application State Management done with GraphQL
 * [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX
+* [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
 * [observed-bits](https://github.com/philosaf/observed-bits) - A tiny library that helps to avoid unnecessary re-renders of all Consumers.
 * [outstated](https://github.com/yamalight/outstated) - Simple hooks-based state management for React
 * [overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management
 * [pure-store](https://github.com/gunn/pure-store) - A tiny immutable store with type safety.
+* [purestate](https://github.com/MaiaVictor/PureState) - The stupidest state management library that works.
 * [react-automata](https://github.com/MicheleBertoli/react-automata) - A state machine abstraction for React
 * [react-broadcast](https://github.com/ReactTraining/react-broadcast/tree/next) - Reliably communicate state changes to deeply nested React elements.
 * [react-composer](https://github.com/jamesplease/react-composer) - Prevents deeply nested code when consuming multiple contexts at the same time.
@@ -69,11 +66,15 @@ List
 * [rosmaro-react](https://github.com/lukaszmakuch/rosmaro-react) - Visual automata-based programming for React
 * [satcheljs](https://github.com/Microsoft/satcheljs) - Satchel is a data store based on the Flux architecture. It is characterized by exposing an observable state that makes view updates painless and efficient.
 * [smox](https://github.com/132yse/smox) - Fast 1kB state management with prefect API 
+* [spaceace](https://github.com/JonAbrams/SpaceAce) - A fancy immutable storage library for JavaScript
 * [stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
 * [statex](https://github.com/rintoj/statex) - StateX is a state management library for modern web applications with unidirectional data flow and immutable uni-state (just like redux)
+* [stator](https://github.com/cs01/stator) - Simple, plain JavaScript state management with built-in support for React
+* [statorgfc](https://github.com/cs01/statorgfc) - The simplest possible global state library for React
 * [statty](https://github.com/vesparny/statty) - A tiny and unobtrusive state management library for React and Preact apps
 * [stent](https://github.com/krasimir/stent) - Stent is combining the ideas of redux with the concept of state machines
 * [storeon](https://github.com/storeon/storeon) - A tiny (173 bytes) event-based Redux-like state manager for React, Preact, Angular, and Svelte
+* [sunfish](https://github.com/tzilist/Sunfish) - Functional transaction based state management library
 * [tiny-atom](https://github.com/QubitProducts/tiny-atom) - Minimal, yet awesome, state management.
 * [undux](https://github.com/bcherny/undux) - Dead simple state management for React
 * [unistore](https://github.com/developit/unistore) - 350b / 650b state container with component actions for Preact & React
