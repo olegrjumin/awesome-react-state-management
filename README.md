@@ -48,8 +48,7 @@ List
 * [react-motive](https://github.com/colevoss/react-motive) - Small wrapper around the React Context API with actions/dispatch style state management.
 * [react-providers](https://github.com/xnimorz/react-providers) - A small library that creates a centralized place to store (like Redux store) your context components and HOC to use it. Automatically resolves dependencies between your context components.
 * [react-recollect](https://github.com/davidgilbertson/react-recollect) - Simple state management for React
-* [react-redux](https://github.com/reactjs/react-redux) - Predictable state container for JavaScript apps + Official React bindings for Redux
-* [react-redux](https://github.com/reduxjs/react-redux) - A Context based library for integrating React with Redux.
+* [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 * [react-simply](https://github.com/lukashala/react-simply/tree/master/tools/state) - Super simple state management for React apps.
 * [react-storage-context](https://github.com/giannif/react-storage-context) - Handy util for getting/setting local storage and session storage built on the Context API.
 * [react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React 
@@ -63,7 +62,6 @@ List
 * [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store
 * [redux-rest-easy](https://github.com/Brigad/redux-rest-easy) - Redux/React/React Native framework handling network requests, state management, selectors, caching and much more
 * [redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
-* [refunk](https://github.com/jxnblk/refunk) - Simple React functional setState
 * [rematch](https://github.com/rematch/rematch) - A Redux Framework
 * [remx](https://github.com/wix/remx) - Opinionated mobx
 * [reworm](https://github.com/pedronauck/reworm) - Reworm doesn't require you to use actions, connections or reducers. The simplest way to manage state!
