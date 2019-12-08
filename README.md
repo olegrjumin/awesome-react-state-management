@@ -55,6 +55,7 @@ List
 * [react-zap](https://github.com/troch/react-zap) - Zap props from one React component to another, using React new context API and your existing higher-order components.
 * [react-zedux](https://github.com/bowheart/react-zedux) - Create consumable contexts from observables, including Zedux/Redux stores.
 * [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
+* [reatom](https://github.com/artalar/reatom) - State manager with a focus of all needs
 * [redux-box](https://github.com/anish000kumar/redux-box) - Modular and easy-to-grasp redux based state management, with least boilerplate
 * [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store
 * [redux-rest-easy](https://github.com/Brigad/redux-rest-easy) - Redux/React/React Native framework handling network requests, state management, selectors, caching and much more
