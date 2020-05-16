@@ -15,6 +15,7 @@ List
 - [constate](https://github.com/diegohaz/constate) - React Context + State = constate.
 - [controllerim](https://github.com/Niryo/controllerim/) - A state management library for React
 - [dakpan](https://github.com/houfio/dakpan) - A small React state management library using the new React context.
+- [derivablejs](https://github.com/ds300/derivablejs) - Functional Reactive State for JavaScript and TypeScript
 - [dob](https://github.com/dobjs/dob) - Light and fast state management tool using proxy.
 - [dutier](https://github.com/luisvinicius167/dutier) - The immutable, async and hybrid state management solution for Javascript applications.
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
@@ -45,19 +46,20 @@ List
 - [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
 - [react-loadable-context](https://github.com/crubier/react-loadable-context) - Small wrapper around the React Context API to asynchronously load and inject objects into the context.
 - [react-motive](https://github.com/colevoss/react-motive) - Small wrapper around the React Context API with actions/dispatch style state management.
+- [react-nano-state](https://github.com/kof/react-nano-state) - Fast state that can be shared across components outside of the React tree
 - [react-providers](https://github.com/xnimorz/react-providers) - A small library that creates a centralized place to store (like Redux store) your context components and HOC to use it. Automatically resolves dependencies between your context components.
 - [react-recollect](https://github.com/davidgilbertson/react-recollect) - Simple state management for React
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [react-simply](https://github.com/lukashala/react-simply/tree/master/tools/state) - Super simple state management for React apps.
 - [react-storage-context](https://github.com/giannif/react-storage-context) - Handy util for getting/setting local storage and session storage built on the Context API.
 - [react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React
-- [react-translations-provider](https://github.com/hyogman/react-translations-provider) - Setup and access a global set of translations and current locale via a context provider.
 - [react-vuex](https://github.com/dennybiasiolli/react-vuex) - React bindings for Vuex, react-redux style
 - [react-waterfall](https://github.com/didierfranc/react-waterfall) - React store built on top of the new context API.
 - [react-zap](https://github.com/troch/react-zap) - Zap props from one React component to another, using React new context API and your existing higher-order components.
 - [react-zedux](https://github.com/bowheart/react-zedux) - Create consumable contexts from observables, including Zedux/Redux stores.
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
 - [reatom](https://github.com/artalar/reatom) - State manager with a focus of all needs
+- [recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [redux-box](https://github.com/anish000kumar/redux-box) - Modular and easy-to-grasp redux based state management, with least boilerplate
 - [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store
 - [redux-rest-easy](https://github.com/Brigad/redux-rest-easy) - Redux/React/React Native framework handling network requests, state management, selectors, caching and much more
