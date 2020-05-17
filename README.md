@@ -19,6 +19,7 @@
 - [hookstate](https://github.com/avkonst/hookstate) - The flexible, fast and extendable state management for React that is based on hooks
 - [icestore](https://github.com/ice-lab/icestore) - Lightweight state management solution based on React Hooks.
 - [iostore](https://github.com/yisbug/iostore) - Based on React Hooks API
+- [kea](https://kea.js.org/) - Production Ready State Management for React
 - [laco](https://github.com/deamme/laco) - Ultra lightweight state management for React and Inferno
 - [loona](https://github.com/kamilkisiela/loona) - Application State Management done with GraphQL
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX
