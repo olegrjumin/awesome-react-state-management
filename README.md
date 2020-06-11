@@ -9,6 +9,7 @@
 - [constate](https://github.com/diegohaz/constate) - React Context + State = constate.
 - [controllerim](https://github.com/Niryo/controllerim/) - A state management library for React
 - [dakpan](https://github.com/houfio/dakpan) - A small React state management library using the new React context.
+- [democrat](https://github.com/etienne-dldc/democrat) - React, but for state management only (hooks & component API).
 - [derivablejs](https://github.com/ds300/derivablejs) - Functional Reactive State for JavaScript and TypeScript
 - [dob](https://github.com/dobjs/dob) - Light and fast state management tool using proxy.
 - [dutier](https://github.com/luisvinicius167/dutier) - The immutable, async and hybrid state management solution for Javascript applications.
