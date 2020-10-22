@@ -87,3 +87,4 @@
 - [with-context](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 - [xstate](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - @xstate/react
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React
+- [statek](https://statek.dev) - Simple, reactive state management library for React and plain JS
