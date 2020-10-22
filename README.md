@@ -71,6 +71,7 @@
 - [smox](https://github.com/132yse/smox) - Fast 1kB state management with prefect API
 - [spaceace](https://github.com/JonAbrams/SpaceAce) - A fancy immutable storage library for JavaScript
 - [stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
+- [statek](https://statek.dev) - Simple, reactive state management library for React and plain JS
 - [statex](https://github.com/rintoj/statex) - StateX is a state management library for modern web applications with unidirectional data flow and immutable uni-state (just like redux)
 - [stator](https://github.com/cs01/stator) - Simple, plain JavaScript state management with built-in support for React
 - [statorgfc](https://github.com/cs01/statorgfc) - The simplest possible global state library for React
@@ -87,4 +88,4 @@
 - [with-context](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 - [xstate](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - @xstate/react
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React
-- [statek](https://statek.dev) - Simple, reactive state management library for React and plain JS
+
