@@ -85,6 +85,7 @@
 - [unistore](https://github.com/developit/unistore) - 350b / 650b state container with component actions for Preact & React
 - [unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [unstated](https://github.com/jamiebuilds/unstated) - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
+- [valtio](https://github.com/pmndrs/valtio) - Simple proxy-state.
 - [with-context](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 - [xstate](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - @xstate/react
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React
