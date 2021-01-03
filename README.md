@@ -20,6 +20,7 @@ Read the [contributing guide](/CONTRIBUTING.md)
 - [dob](https://github.com/dobjs/dob) - Light and fast state management tool using proxy.
 - [dutier](https://github.com/luisvinicius167/dutier) - The immutable, async and hybrid state management solution for Javascript applications.
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
+- [effector](https://github.com/effector/effector) - The state manager
 - [freactal](https://github.com/FormidableLabs/freactal) - Clean and robust state management for React and React-like libs.
 - [freezer](https://github.com/arqex/freezer) - A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.
 - [hookstate](https://github.com/avkonst/hookstate) - The flexible, fast and extendable state management for React that is based on hooks
