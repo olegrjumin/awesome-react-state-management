@@ -87,5 +87,6 @@ Read the [contributing guide](/CONTRIBUTING.md)
 - [unstated](https://github.com/jamiebuilds/unstated) - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 - [valtio](https://github.com/pmndrs/valtio) - Simple proxy-state.
 - [with-context](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
+- [xoid](https://github.com/onurkerimov/xoid) - Scalable, fine-grained, and minimal state-management library for React and vanilla JavaScript
 - [xstate](https://github.com/davidkpiano/xstate) - @xstate/react
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React
