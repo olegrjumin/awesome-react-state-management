@@ -80,7 +80,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
 ![Stars](https://img.shields.io/github/stars/aweary/react-copy-write) ![Last Commit](https://img.shields.io/github/last-commit/aweary/react-copy-write)
 - [react-create-context](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API.  
 ![Stars](https://img.shields.io/github/stars/jamiebuilds/create-react-context) ![Last Commit](https://img.shields.io/github/last-commit/jamiebuilds/create-react-context)
-- [react-easy-state](https://github.com/solkimicreb/react-easy-state) minimal React state management with the power of ES6 Proxies
+- [react-easy-state](https://github.com/solkimicreb/react-easy-state) - Minimal React state management with the power of ES6 Proxies  
+  ![Stars](https://img.shields.io/github/stars/solkimicreb/react-easy-state) ![Last Commit](https://img.shields.io/github/last-commit/solkimicreb/react-easy-state)
 - [react-loadable-context](https://github.com/crubier/react-loadable-context) - Small wrapper around the React Context API to asynchronously load and inject objects into the context.  
 ![Stars](https://img.shields.io/github/stars/crubier/react-loadable-context) ![Last Commit](https://img.shields.io/github/last-commit/crubier/react-loadable-context)
 - [react-motive](https://github.com/colevoss/react-motive) - Small wrapper around the React Context API with actions/dispatch style state management.  
