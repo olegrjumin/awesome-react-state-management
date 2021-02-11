@@ -18,6 +18,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
 ![Stars](https://img.shields.io/github/stars/cerebral/cerebral) ![Last Commit](https://img.shields.io/github/last-commit/cerebral/cerebral)
 - [clearx](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React with zero learning curve.  
 ![Stars](https://img.shields.io/github/stars/Autodesk/clearx) ![Last Commit](https://img.shields.io/github/last-commit/Autodesk/clearx)
+- [concent](https://github.com/concentjs/concent) - State management that tailored for react, it is simple, predictable, progressive and efficient.
+![Stars](https://img.shields.io/github/stars/concentjs/concent) ![Last Commit](https://img.shields.io/github/last-commit/concentjs/concent)
 - [constate](https://github.com/diegohaz/constate) - React Context + State = constate.  
 ![Stars](https://img.shields.io/github/stars/diegohaz/constate) ![Last Commit](https://img.shields.io/github/last-commit/diegohaz/constate)
 - [controllerim](https://github.com/Niryo/controllerim) - A state management library for React  
