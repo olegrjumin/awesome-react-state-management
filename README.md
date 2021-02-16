@@ -6,6 +6,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
 
 ## List
 
+- [agile-ts](https://github.com/agile-ts/agile) - Spacy, fast, simple State Management Framework  
+  ![Stars](https://img.shields.io/github/stars/agile-ts/agile) ![Last Commit](https://img.shields.io/github/last-commit/agile-ts/agile)
 - [akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications  
   ![Stars](https://img.shields.io/github/stars/datorama/akita) ![Last Commit](https://img.shields.io/github/last-commit/datorama/akita)
 - [alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation  
