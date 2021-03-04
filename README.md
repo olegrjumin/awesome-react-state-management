@@ -98,7 +98,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/davidgilbertson/react-recollect) ![Last Commit](https://img.shields.io/github/last-commit/davidgilbertson/react-recollect)
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux  
   ![Stars](https://img.shields.io/github/stars/reduxjs/react-redux) ![Last Commit](https://img.shields.io/github/last-commit/reduxjs/react-redux)
-- [react-rhino](https://github.com/aromalanil/react-rhino) - A simple global state management library for React.js ![Stars](https://img.shields.io/github/stars/aromalanil/react-rhino) ![Last Commit](https://img.shields.io/github/last-commit/aromalanil/react-rhino)
+- [react-rhino](https://github.com/aromalanil/react-rhino) - A simple global state management library for React.js 
+  ![Stars](https://img.shields.io/github/stars/aromalanil/react-rhino) ![Last Commit](https://img.shields.io/github/last-commit/aromalanil/react-rhino)
 - [react-simply](https://github.com/lukashala/react-simply/tree/master/tools/state) - Super simple state management for React apps.  
   ![Stars](https://img.shields.io/github/stars/lukashala/react-simply) ![Last Commit](https://img.shields.io/github/last-commit/lukashala/react-simply)
 - [react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React  
