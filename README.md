@@ -56,10 +56,12 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/keajs/kea) ![Last Commit](https://img.shields.io/github/last-commit/keajs/kea)
 - [laco](https://github.com/deamme/laco) - Ultra lightweight state management for React and Inferno  
   ![Stars](https://img.shields.io/github/stars/deamme/laco) ![Last Commit](https://img.shields.io/github/last-commit/deamme/laco)
-- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX  
-  ![Stars](https://img.shields.io/github/stars/mobxjs/mobx-state-tree) ![Last Commit](https://img.shields.io/github/last-commit/mobxjs/mobx-state-tree)
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management  
   ![Stars](https://img.shields.io/github/stars/mobxjs/mobx) ![Last Commit](https://img.shields.io/github/last-commit/mobxjs/mobx)
+- [mobx-keystone](https://https://github.com/xaviergonz/mobx-keystone) - A MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more  
+  ![Stars](https://img.shields.io/github/stars/xaviergonz/mobx-keystone) ![Last Commit](https://img.shields.io/github/last-commit/xaviergonz/mobx-keystone)
+- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX  
+  ![Stars](https://img.shields.io/github/stars/mobxjs/mobx-state-tree) ![Last Commit](https://img.shields.io/github/last-commit/mobxjs/mobx-state-tree)
 - [outstated](https://github.com/yamalight/outstated) - Simple hooks-based state management for React  
   ![Stars](https://img.shields.io/github/stars/yamalight/outstated) ![Last Commit](https://img.shields.io/github/last-commit/yamalight/outstated)
 - [overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management  
