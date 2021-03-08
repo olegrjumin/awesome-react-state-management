@@ -58,7 +58,7 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/deamme/laco) ![Last Commit](https://img.shields.io/github/last-commit/deamme/laco)
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management  
   ![Stars](https://img.shields.io/github/stars/mobxjs/mobx) ![Last Commit](https://img.shields.io/github/last-commit/mobxjs/mobx)
-- [mobx-keystone](https://https://github.com/xaviergonz/mobx-keystone) - A MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more  
+- [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) - A MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more  
   ![Stars](https://img.shields.io/github/stars/xaviergonz/mobx-keystone) ![Last Commit](https://img.shields.io/github/last-commit/xaviergonz/mobx-keystone)
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX  
   ![Stars](https://img.shields.io/github/stars/mobxjs/mobx-state-tree) ![Last Commit](https://img.shields.io/github/last-commit/mobxjs/mobx-state-tree)
