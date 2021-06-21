@@ -62,6 +62,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/xaviergonz/mobx-keystone) ![Last Commit](https://img.shields.io/github/last-commit/xaviergonz/mobx-keystone)
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX  
   ![Stars](https://img.shields.io/github/stars/mobxjs/mobx-state-tree) ![Last Commit](https://img.shields.io/github/last-commit/mobxjs/mobx-state-tree)
+- [nanostores](https://github.com/ai/nanostores) - A tiny state manager for React, Preact, Vue, Svelte, and vanilla JS.  
+  ![Stars](https://img.shields.io/github/stars/ai/nanostores) ![Last Commit](https://img.shields.io/github/last-commit/ai/nanostores)
 - [outstated](https://github.com/yamalight/outstated) - Simple hooks-based state management for React  
   ![Stars](https://img.shields.io/github/stars/yamalight/outstated) ![Last Commit](https://img.shields.io/github/last-commit/yamalight/outstated)
 - [overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management  
