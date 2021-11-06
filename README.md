@@ -184,3 +184,5 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/davidkpiano/xstate) ![Last Commit](https://img.shields.io/github/last-commit/davidkpiano/xstate)
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React  
   ![Stars](https://img.shields.io/github/stars/react-spring/zustand) ![Last Commit](https://img.shields.io/github/last-commit/react-spring/zustand)
+- [teaful](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management  
+  ![Stars](https://img.shields.io/github/stars/teafuljs/teaful) ![Last Commit](https://img.shields.io/github/last-commit/teafuljs/teaful)
