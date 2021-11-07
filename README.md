@@ -164,6 +164,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/storeon/storeon) ![Last Commit](https://img.shields.io/github/last-commit/storeon/storeon)
 - [sunfish](https://github.com/tzilist/Sunfish) - Functional transaction based state management library  
   ![Stars](https://img.shields.io/github/stars/tzilist/Sunfish) ![Last Commit](https://img.shields.io/github/last-commit/tzilist/Sunfish)
+- [teaful](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management  
+  ![Stars](https://img.shields.io/github/stars/teafuljs/teaful) ![Last Commit](https://img.shields.io/github/last-commit/teafuljs/teaful)
 - [tiny-atom](https://github.com/QubitProducts/tiny-atom) - Minimal, yet awesome, state management.  
   ![Stars](https://img.shields.io/github/stars/QubitProducts/tiny-atom) ![Last Commit](https://img.shields.io/github/last-commit/QubitProducts/tiny-atom)
 - [undux](https://github.com/bcherny/undux) - Dead simple state management for React  
@@ -184,5 +186,3 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/davidkpiano/xstate) ![Last Commit](https://img.shields.io/github/last-commit/davidkpiano/xstate)
 - [zustand](https://github.com/react-spring/zustand) - Bear necessities for state management in React  
   ![Stars](https://img.shields.io/github/stars/react-spring/zustand) ![Last Commit](https://img.shields.io/github/last-commit/react-spring/zustand)
-- [teaful](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management  
-  ![Stars](https://img.shields.io/github/stars/teafuljs/teaful) ![Last Commit](https://img.shields.io/github/last-commit/teafuljs/teaful)
