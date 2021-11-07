@@ -176,6 +176,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/jamiebuilds/unstated-next) ![Last Commit](https://img.shields.io/github/last-commit/jamiebuilds/unstated-next)
 - [unstated](https://github.com/jamiebuilds/unstated) - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.  
   ![Stars](https://img.shields.io/github/stars/jamiebuilds/unstated) ![Last Commit](https://img.shields.io/github/last-commit/jamiebuilds/unstated)
+- [use-between](https://github.com/betula/use-between) - Sharing React hooks stateful logic between components.  
+  ![Stars](https://img.shields.io/github/stars/betula/use-between) ![Last Commit](https://img.shields.io/github/last-commit/betula/use-between)
 - [valtio](https://github.com/pmndrs/valtio) - Simple proxy-state.  
   ![Stars](https://img.shields.io/github/stars/pmndrs/valtio) ![Last Commit](https://img.shields.io/github/last-commit/pmndrs/valtio)
 - [with-context](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.  
