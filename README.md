@@ -16,6 +16,8 @@ Read the [contributing guide](/CONTRIBUTING.md)
   ![Stars](https://img.shields.io/github/stars/apollographql/apollo-client) ![Last Commit](https://img.shields.io/github/last-commit/apollographql/apollo-client)
 - [behavior-tree](https://github.com/Idered/behavior-tree) - Manage React state with Behavior Trees  
   ![Stars](https://img.shields.io/github/stars/Idered/behavior-tree) ![Last Commit](https://img.shields.io/github/last-commit/Idered/behavior-tree)
+- [Blac](https://github.com/jsnanigans/blac) - BLoC pattern for React        
+  ![Stars](https://img.shields.io/github/stars/jsnanigans/blac) ![Last Commit](https://img.shields.io/github/last-commit/jsnanigans/blac)
 - [cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management for popular JavaScript frameworks  
   ![Stars](https://img.shields.io/github/stars/cerebral/cerebral) ![Last Commit](https://img.shields.io/github/last-commit/cerebral/cerebral)
 - [clearx](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React with zero learning curve.  
